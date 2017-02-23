@@ -7,7 +7,7 @@ __Making your code a color explosion__
 
 > Each element is like a different fruit, with Rabensome everything is clearly defined.
 
-_PetrusBoniatus_
+_petrusboniatus_
 
 ## Installing Rabensome
 
