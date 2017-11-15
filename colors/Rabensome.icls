@@ -1,17 +1,17 @@
 <scheme name="Rabensome" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
     <property name="created">2017-02-23T00:36:01</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-02-23T00:36:52</property>
+    <property name="modified">2017-11-15T19:20:31</property>
     <property name="originalScheme">Eclectide Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono Lig Medium" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="b2c0c6" />
@@ -314,6 +314,7 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="a7e22e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -323,7 +324,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="c78536" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -334,6 +335,7 @@
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="a7e22e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -837,7 +839,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f6f6f6" />
+        <option name="FOREGROUND" value="d2d2d2" />
         <option name="BACKGROUND" value="1e1e19" />
       </value>
     </option>
@@ -902,5 +904,26 @@
       </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="org.rust.ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="afafaf" />
+      </value>
+    </option>
+    <option name="org.rust.IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c7ccc5" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="FOREGROUND" value="49c774" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.STRUCT">
+      <value>
+        <option name="FOREGROUND" value="db923c" />
+      </value>
+    </option>
   </attributes>
 </scheme>
